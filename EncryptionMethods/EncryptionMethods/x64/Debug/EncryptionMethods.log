@@ -1,0 +1,19 @@
+﻿  EncryptionMethods.cpp
+D:\Навчання\4 курс\1 семестр\3. Захист інформацій\Методи шифрування\EncryptionMethods\EncryptionMethods\EncryptionMethods.cpp(44,40): warning C4101: 'e': unreferenced local variable
+D:\Навчання\4 курс\1 семестр\3. Захист інформацій\Методи шифрування\EncryptionMethods\EncryptionMethods\EncryptionMethods.cpp(75,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Навчання\4 курс\1 семестр\3. Захист інформацій\Методи шифрування\EncryptionMethods\EncryptionMethods\EncryptionMethods.cpp(82,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Навчання\4 курс\1 семестр\3. Захист інформацій\Методи шифрування\EncryptionMethods\EncryptionMethods\EncryptionMethods.cpp(158,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Навчання\4 курс\1 семестр\3. Захист інформацій\Методи шифрування\EncryptionMethods\EncryptionMethods\EncryptionMethods.cpp(170,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Навчання\4 курс\1 семестр\3. Захист інформацій\Методи шифрування\EncryptionMethods\EncryptionMethods\EncryptionMethods.cpp(185,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Навчання\4 курс\1 семестр\3. Захист інформацій\Методи шифрування\EncryptionMethods\EncryptionMethods\EncryptionMethods.cpp(196,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Навчання\4 курс\1 семестр\3. Захист інформацій\Методи шифрування\EncryptionMethods\EncryptionMethods\EncryptionMethods.cpp(196,25): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+D:\Навчання\4 курс\1 семестр\3. Захист інформацій\Методи шифрування\EncryptionMethods\EncryptionMethods\EncryptionMethods.cpp(223,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Навчання\4 курс\1 семестр\3. Захист інформацій\Методи шифрування\EncryptionMethods\EncryptionMethods\EncryptionMethods.cpp(234,37): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Навчання\4 курс\1 семестр\3. Захист інформацій\Методи шифрування\EncryptionMethods\EncryptionMethods\EncryptionMethods.cpp(234,25): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+D:\Навчання\4 курс\1 семестр\3. Захист інформацій\Методи шифрування\EncryptionMethods\EncryptionMethods\EncryptionMethods.cpp(259,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Навчання\4 курс\1 семестр\3. Захист інформацій\Методи шифрування\EncryptionMethods\EncryptionMethods\EncryptionMethods.cpp(260,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Навчання\4 курс\1 семестр\3. Захист інформацій\Методи шифрування\EncryptionMethods\EncryptionMethods\EncryptionMethods.cpp(310,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Навчання\4 курс\1 семестр\3. Захист інформацій\Методи шифрування\EncryptionMethods\EncryptionMethods\EncryptionMethods.cpp(311,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Навчання\4 курс\1 семестр\3. Захист інформацій\Методи шифрування\EncryptionMethods\EncryptionMethods\EncryptionMethods.cpp(355,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Навчання\4 курс\1 семестр\3. Захист інформацій\Методи шифрування\EncryptionMethods\EncryptionMethods\EncryptionMethods.cpp(370,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  EncryptionMethods.vcxproj -> D:\Навчання\4 курс\1 семестр\3. Захист інформацій\Методи шифрування\EncryptionMethods\x64\Debug\EncryptionMethods.exe
